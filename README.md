@@ -56,4 +56,6 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 Acknowledgments
 This project utilizes the Pokemon API hosted at https://assets.pokemon.com/assets/cms2/img/pokedex/detail/ to fetch Pokemon images.
-Special
+Special thanks to the contributors of React, Axios, and React Bootstrap for their excellent libraries.
+Shoutout to the Pokemon franchise for providing endless inspiration!
+Enjoy the game, and may the best Pokemon trainer win!
