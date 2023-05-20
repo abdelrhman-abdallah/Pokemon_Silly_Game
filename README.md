@@ -1,5 +1,5 @@
 #Pokemon Battle Game
-This is a React project that allows users to play a Pokemon battle game. The game fetches data from the Pokemon API (https://assets.pokemon.com/assets/cms2/img/pokedex/detail/) to generate four random Pokemon cards for each player. Each card includes a Pokemon image, type, and experience points (exp).
+This is a React project that allows users to play a Pokemon battle game. The game fetches data from the Pokemon API (https://assets.pokemon.com/assets/cms2/img/pokedex/detail/${id}.png) to generate four random Pokemon cards for each player. Each card includes a Pokemon image, type, and experience points (exp).
 
 How to Play
 To play the game, follow these steps:
